@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Poppins', Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+#content {
+    max-width: 1300px;
+    margin: 20px auto;
+    padding: 0 10px;
+}
