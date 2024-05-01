@@ -6,7 +6,12 @@
     <div class="bg-primary-900 text-primary-400 rounded p-4">
         <div class="flex flex-col gap-6 text-md">
             <p>
-                Silakan kirim email kepada kami jika Anda percaya bahwa salah satu konten kami melanggar hak cipta Anda atau jika ada referensi ke konten ilegal dalam hasil pencarian Anda. Perhatikan bahwa mengirimkan keluhan Anda melalui email ke pihak lain seperti penyedia layanan internet kami, penyedia hosting, dan pihak ketiga lainnya tidak akan mempercepat permintaan Anda dan dapat mengakibatkan respons yang lebih lama karena keluhan tidak disampaikan dengan baik. Harap tunggu hingga 1-5 hari kerja untuk tanggapan email.
+                Silakan kirim email kepada kami jika Anda percaya bahwa salah satu konten kami melanggar hak cipta Anda
+                atau jika ada referensi ke konten ilegal dalam hasil pencarian Anda. Perhatikan bahwa mengirimkan
+                keluhan Anda melalui email ke pihak lain seperti penyedia layanan internet kami, penyedia hosting, dan
+                pihak ketiga lainnya tidak akan mempercepat permintaan Anda dan dapat mengakibatkan respons yang lebih
+                lama karena keluhan tidak disampaikan dengan baik. Harap tunggu hingga 1-5 hari kerja untuk tanggapan
+                email.
             </p>
             <div class="flex flex-col gap-2">
                 <p>
@@ -42,7 +47,12 @@
                 </p>
             </div>
             <p>
-                Perhatikan bahwa tidak semua file dan assets yang tercantum di situs ini dihosting di server <?php echo $project_name; ?>. <?php echo $project_name; ?> tidak bertanggung jawab atas konten yang dihosting di situs pihak ketiga, dan <?php echo $project_name; ?> tidak terlibat dalam pengunduhan atau pengunggahan foto. Kami hanya memposting tautan yang dapat ditemukan secara online. Harap beritahu Admin Konten jika Anda percaya bahwa konten mana pun di situs ini melanggar undang-undang kekayaan intelektual dan Anda adalah pemilik hak ciptanya. Jika Anda melakukannya, konten tersebut akan dihapus segera.
+                Perhatikan bahwa tidak semua file dan assets yang tercantum di situs ini dihosting di server
+                <?php echo $project_name; ?>. <?php echo $project_name; ?> tidak bertanggung jawab atas konten yang
+                dihosting di situs pihak ketiga, dan <?php echo $project_name; ?> tidak terlibat dalam pengunduhan atau
+                pengunggahan foto. Kami hanya memposting tautan yang dapat ditemukan secara online. Harap beritahu Admin
+                Konten jika Anda percaya bahwa konten mana pun di situs ini melanggar undang-undang kekayaan intelektual
+                dan Anda adalah pemilik hak ciptanya. Jika Anda melakukannya, konten tersebut akan dihapus segera.
             </p>
         </div>
     </div>

@@ -29,7 +29,7 @@ $source = [
             </p>
             <p class="flex flex-wrap gap-1">
                 <?php foreach ($source as $s): ?>
-                                                <span class="bg-accent-500 text-primary-900 px-2 py-0.5 rounded"> <?php echo $s; ?> </span>
+                    <span class="bg-accent-500 text-primary-900 px-2 py-0.5 rounded"> <?php echo $s; ?> </span>
                 <?php endforeach; ?>
             </p>
             <p>

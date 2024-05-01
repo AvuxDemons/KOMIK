@@ -17,6 +17,6 @@
 </footer>
 
 <script>
-    const year = new Date().getFullYear();
-    $("#current-year").text(year);
+const year = new Date().getFullYear();
+$("#current-year").text(year);
 </script>
